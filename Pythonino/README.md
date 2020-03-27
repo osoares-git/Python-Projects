@@ -8,7 +8,7 @@ Neste respositorio estão os scripts Python utilizados no desenvolvimento do sis
 ## HelloWorld
 
 - Script utilizado para aprender à usar a lib pyfirmata;
-- Obejetivo específico: Print e OUTPUT;
+- Objetivo específico: Print e OUTPUT;
 
 
 ## Button
