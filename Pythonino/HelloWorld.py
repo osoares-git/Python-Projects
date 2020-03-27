@@ -1,7 +1,7 @@
 from pyfirmata import Arduino, util
 import time
 
-Mega = Arduino('COM4')
+Mega = Arduino('COM5')
 
 print('Hello World!')
 
