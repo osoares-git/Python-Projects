@@ -1,7 +1,7 @@
 
 
 # Repositório de projetos Python - Bolsista PCI-CNPq-LNA
-> Instrumentação do Espetrógrafo ECHARPE
+> Instrumentação do Espectrógrafo ECHARPE
 
 Neste respositorio estão os scripts Python utilizados no desenvolvimento do sistema de controle do ECHARPE bem como a indicação das "libraries" utilizadas, código para o firmware Arduino, etc.
 
